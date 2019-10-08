@@ -21,8 +21,9 @@ aliases:
 ---
 name: village
 aliases:
-    - hamlet
     - locality
+---
+name: hamlet
 ---
 name: neighbourhood
 aliases:
@@ -30,8 +31,6 @@ aliases:
     - city_district
 ---
 name: city
-aliases:
-    - town
 ---
 name: county
 aliases:

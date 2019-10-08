@@ -19,7 +19,7 @@ BR:
     AM: Amazonas
     BA: Bahia
     CE: Ceará
-    DF: Distrito Federal
+    DF: [Distrito Federal,Federal District]
     ES: Espírito Santo
     GO: Goiás
     MA: Maranhão
@@ -116,3 +116,36 @@ US:
     WV: West Virginia
     WI: Wisconsin
     WY: Wyoming
+MX:
+    AGS: Aguascalientes
+    BC: Baja California
+    BCS: Baja California Sur
+    CAM: Campeche
+    COAH: Coahuila
+    COL: Colima
+    CHIS: Chiapas
+    CHIH: Chihuahua
+    CDMX: [Cuidad de México,Mexico City]
+    DGO: Durango
+    GTO: Guanajuato
+    GRO: Guerrero
+    HGO: Hidalgo
+    JAL: Jalisco
+    MEX: México
+    MICH: Michoacán
+    MOR: Morelos
+    NAY: Nayarit
+    NL: Nuevo León
+    OAX: Oaxaca
+    PUE: Puebla
+    QRO: Querétaro
+    Q ROO: Quintana Roo
+    SLP: San Luis Potosi
+    SIN: Sinaloa
+    SON: Sonora
+    TAB: Tabasco
+    TAMPS: Tamaulipas
+    TLAX: Tlaxcala
+    VER: Veracruz
+    YUC: Yucatán
+    ZAC: Zacatecas

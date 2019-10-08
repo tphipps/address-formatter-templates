@@ -36,7 +36,7 @@ IT:
        FC: Forlì-Cesena
        FE: Ferrara
        FG: Foggia
-       FI: Firenze
+       FI: [Firenze,Florence]
        FM: Fermo
        FR: Frosinone
        GE: Genova
@@ -51,15 +51,15 @@ IT:
        LO: Lodi
        LT: Latina
        LU: Lucca
-       MB: Monza e della Brianza
+       MB: [Monza e della Brianza,Monza and Brianza]
        MC: Macerata
        ME: Messina
-       MI: Milano
+       MI: [Milano,Milan]
        MN: Mantova
        MO: Modena
-       MS: Massa-Carrara
+       MS: [Massa-Carrara,Massa and Carrara]
        MT: Matera
-       NA: Napoli
+       NA: [Napoli,Naples]
        NO: Novara
        NU: Nuoro
        OG: Ogliastra
@@ -75,7 +75,7 @@ IT:
        PO: Prato
        PR: Parma
        PT: Pistoia
-       PU: Pesaro e Urbino
+       PU: [Pesaro e Urbino,Pesaro and Urbino]
        PV: Pavia
        PZ: Potenza
        RA: Ravenna
@@ -83,20 +83,20 @@ IT:
        RE: Reggio Emilia
        RG: Ragusa
        RI: Rieti
-       RM: Roma
+       RM: [Roma,Rome]
        RN: Rimini
        RO: Rovigo
        SA: Salerno
        SI: Siena
        SO: Sondrio
        SP: La Spezia
-       SR: Siracusa
+       SR: [Siracusa,Syracuse]
        SS: Sassari
        SV: Savona
        TA: Taranto
        TE: Teramo
        TN: Trento
-       TO: Torino
+       TO: [Torino,Turin]
        TP: Trapani
        TR: Terni
        TS: Trieste
@@ -105,7 +105,7 @@ IT:
        VA: Varese
        VB: Verbano-Cusio-Ossola
        VC: Vercelli
-       VE: Venezia
+       VE: [Venezia,Venice]
        VI: Vicenza
        VR: Verona
        VS: Medio Campidano
